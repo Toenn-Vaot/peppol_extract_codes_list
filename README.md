@@ -9,16 +9,6 @@ This repository is a small utility project: it contains a single Python script t
 ## Requirements
 
 - Python 3.8+ (any modern 3.x version should work)
-- Network access to the PEPPOL BIS Billing documentation site
-- Python dependencies used by the script (check the imports at the top of `scrape_peppol_codelists.py` and install any third‑party libraries with `pip`)
-
-Typical dependencies for a scraper like this are:
-
-```bash
-pip install requests beautifulsoup4 lxml
-```
-
-but you should always align this with what the script actually imports.
 
 ## Installation
 
