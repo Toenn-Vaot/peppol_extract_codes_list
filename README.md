@@ -6,13 +6,6 @@ Scrape the [PEPPOL BIS Billing](https://docs.peppol.eu/poacc/billing/3.0/) code 
 
 This repository is a small utility project: it contains a single Python script that downloads the public PEPPOL BIS Billing code lists (such as country codes, currency codes, tax categories, invoice type codes, etc.) and turns them into machine‑friendly JSON that you can reuse in your own applications, validators, or integration layers.
 
-## Repository structure
-
-- `.gitignore` – standard Git ignore rules for Python.
-- `LICENSE` – project license (MIT).
-- `scrape_peppol_codelists.py` – the scraper script that fetches the PEPPOL BIS Billing code lists and writes them to JSON.
-- `README.md` – this file.
-
 ## Requirements
 
 - Python 3.8+ (any modern 3.x version should work)
