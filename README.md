@@ -28,23 +28,10 @@ Clone the repository:
 git clone https://github.com/Toenn-Vaot/peppol_extract_codes_list.git
 cd peppol_extract_codes_list
 ```
-
-(Optional) Create and activate a virtual environment:
-
-```bash
-python -m venv .venv
-# On Linux / macOS
-source .venv/bin/activate
-# On Windows
-.venv\Scripts\activate
-```
-
 Install the required Python packages with `pip` (as noted above):
 
 ```bash
-pip install -r requirements.txt  # if you maintain one
-# or manually:
-pip install requests beautifulsoup4 lxml
+pip install requests beautifulsoup4
 ```
 
 ## Usage
