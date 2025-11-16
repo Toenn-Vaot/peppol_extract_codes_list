@@ -1,4 +1,4 @@
-# peppol_extract_codes_list
+# PEPPOL - Extract the Codes List
 
 Scrape the [PEPPOL BIS Billing](https://docs.peppol.eu/poacc/billing/3.0/) code list pages and export the code lists as JSON files.
 
