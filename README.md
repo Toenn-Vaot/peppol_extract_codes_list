@@ -1,3 +1,5 @@
+<img width="640" height="320" alt="peppol_extract_codes_list" src="https://github.com/user-attachments/assets/de89b5e4-3d2a-4752-8108-95e5f75db2fd" />
+
 # PEPPOL - Extract the Codes List
 
 Scrape the [PEPPOL BIS Billing](https://docs.peppol.eu/poacc/billing/3.0/) code list pages and export the code lists as JSON files.
